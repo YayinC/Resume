@@ -1,0 +1,127 @@
+---
+title: "Yayin Cai"
+author: "Vignette Author"
+date: "`r Sys.Date()`"
+output:
+  rmarkdown::html_document:
+    theme: lumen
+---
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 16px;
+  font-family: "Yu Gothic UI Semilight";
+  color: Black;
+  }
+td {  /* Table  */
+  font-size: 10px;
+}
+h1.title {
+  font-size: 38px;
+  color: Black;
+}
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: #6ba8b2
+  font-family: "Adobe Gothic Std B";
+}
+h2 { /* Header 2 */
+  font-size: 22px;
+  color: #6ba8b2;
+  font-family: "Adobe Gothic Std B";
+}
+h3 { /* Header 3 */
+  font-size: 18px;
+  color:#6ba8b2;
+  font-family: "Adobe Gothic Std B";
+}
+h4 { /* Header 4 */
+  font-size: 16px;
+  color: Brown;
+  font-family: "Adobe Gothic Std B";
+}
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 14px;
+}
+</style>
+---
+## Education
+`Expected in Dec 2018` 
+__University of Pennsylvania, Philadelphia, PA__  
+Candidate for Master of City Planning and Master of Urban Spatial Analytics, School of Design  
+
+`Sep 2011-Jul 2016` 
+__Peking University, China__  
+Bachelor of Engineering in Urban Planning  
+
+## Work Experience
+`Sep 2017-Dec 2017` 
+__GIS and Data Analytics Intern__  
+*Philadelphia Parks Alliance*  
+-Investigated educational attainment of 218 Philadelphia neighborhoods using block group data of recreation centers using ArcGIS  
+-Created maps of recreation centers using ArcGIS by Philadelphia Recreation Advisory Council District  
+-Designed conservation posters by mapping Philadelphia¡¯s poverty and education conditions on census tract level  
+
+`May 2017-Aug 2017` 
+__Recreation Community Initiative (RCI) Intern__  
+*Philadelphia Parks Alliance*  
+-Designed flyers with InDesign and Canva for Advisory Council Meetings and community activities  
+-Mobilized hundreds of community members to attend events through phone-banking  
+
+
+## Professional Projects  
+`Jan 2017-present` 
+__Bike Share Prediction for Philadelphia__   
+-Constructed a predictive model to predict bike share trip count for every location in Philadelphia in partnership with The Bicycle Coalition of Greater Philadelphia  
+-Performed exploratory analysis and visualized spatial data in R markdown using multiple R packages  
+-Boosted accuracy of the model by using Boruta in feature engineering and using different machine learning algorithm in modeling, including ridge, lasso, and elastic net regression, random forest, and gradient boosting  
+
+
+`Apr 2017` 
+__Flood Inundation Prediction for Calgary, Canada__  
+-Encoded topography, hydrology, and land cover information into fishnet cells of Calgary city using ArcGIS  
+-Constructed logistic regression model to predict the probability of flooding for every location in Calgary using R, and improved the accuracy to 90% eventually  
+-Produced a video to communicate the model concepts to non-technical planners  
+
+`Sep 2017-Dec 2017` 
+__Sustainable Planning for Bogot¨¢, Colombia__  
+-Conducted qualitative and quantitative research on Lagos de Torca area in Bogot¨¢  
+-Designed innovation district and pedestrian zone to transform Lagos de Torca area to a vibrant destination and a regional hub for tech-jobs  
+-Produced and laid out urban design work (plans, renderings, and sections), using Rhino, Photoshop, Illustrator, AutoCAD, and InDesign  
+
+`Oct 2017` 
+__Home Prices Prediction for Boston__  
+-Constructed a predictive model of home prices using over 1000 properties in Boston  
+-Cleaned and arranged data using ArcGIS and R, and introduced 37 predictors into the model  
+-Conducted OLS regression analysis using R, and validated model by in-sample prediction, out-sample prediction, and k-fold cross-validation to control the final Mean Absolute Percent Error (MAPE) at around 13%  
+`Feb 2017-May 2017` 
+__JavaScript Project: Explore Food Markets in Philadelphia__  
+-Created webpages to explore food markets in Philadelphia using JavaScript, jQuery, Leaflet and other libraries  
+-Implemented UI design using CSS, HTML and Bootstrap  
+-Developed search functions to enable food markets filtering and executed the function to zoom in  
+-Optimized routing to reach a selected food market from any input location or current location by using the Mapzen API  
+
+`Nov 2016-Dec 2016` 
+__Market Research and Financial Feasibility Analysis, Philadelphia__  
+-Conducted market research and financial feasibility analysis for the housing project in Center City  
+-Analyzed market demand, supply and supply-demand balance, based on Census data  
+-Performed pro forma to analyze the financial feasibility  
+ 
+## Awards  
+**Honorable Mention in ULI Hines Student Competition, 2018**  
+-Achieved honorable mention for our design ¡°Don Ramble¡± from a pool of 122 participating teams  
+-Researched local demographic profile and zoning regulations, mapped existing conditions, as well as coordinated design process and financial process  
+
+## Skills  
+**Graphic Design**  
+Skilled in Photoshop, Illustrator, InDesign, Sketch Up, Rhino, AutoCAD  
+**Data Analytics**  
+Proficient in collecting, analyzing and interpreting data with R, GeoDa, and SPSS  
+**Programming**  
+Working knowledge of web mapping (JavaScript, HTML, CSS), and Python  
+**GIS**  
+Extensive experience in geospatial analysis with ArcGIS and QGIS  
+
